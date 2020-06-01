@@ -1,6 +1,5 @@
 package burp;
 
-import java.io.PrintWriter;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
